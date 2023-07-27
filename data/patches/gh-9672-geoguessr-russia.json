@@ -1,0 +1,50 @@
+{
+	"id": -1,
+	"name": "Geoguessr Russia",
+	"description": "The Geoguessr Russia community mainly helped create and maintain the Geoguessr spot in r/place.  They added GRU for Geoguessr Russia. ",
+	"links": {
+		"website": [
+			"https://www.geoguessr.com/"
+		],
+		"subreddit": [
+			"geoguessr"
+		],
+		"discord": [
+			"vx64jhDA"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-22,
+				938
+			],
+			[
+				-14,
+				938
+			],
+			[
+				-14,
+				942
+			],
+			[
+				-22,
+				942
+			],
+			[
+				-22,
+				942
+			],
+			[
+				-22,
+				938
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-18,
+			940
+		]
+	}
+}
